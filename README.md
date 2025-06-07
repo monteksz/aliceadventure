@@ -28,6 +28,10 @@ git clone https://github.com/monteksz/aliceadventure
 ```bash
 cd aliceadventure
 ```
+- Install Module
+```bash
+pip install -r requirements.txt
+```
 - Paste accessToken to token.txt
 ```bash
 go to https://myneighboralice.com/rewards/ and inspect go to aplication you can find accessToken
